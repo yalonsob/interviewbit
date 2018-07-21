@@ -1,4 +1,4 @@
 # interviewbit
 
-![interviewbit gif](http://yalonsob.com/gif/interviewbit_yolanda.gif)
+[See GIF](http://yalonsob.com/gif/interviewbit_yolanda.gif)
 
